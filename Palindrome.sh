@@ -15,7 +15,7 @@ done
 
 if [ $temp -eq $a ]
 then 
-	echo "Given number is a palindrom"
+	echo "Given number is a palindrome"
 else 
-	echo "Given number is not a palindrom"
+	echo "Given number is not a palindrome"
 fi
